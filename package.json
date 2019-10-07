@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "currency": "^4.1.0",
     "currency.js": "^1.1.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "v-money": "^0.8.1"
   },
   "devDependencies": {
