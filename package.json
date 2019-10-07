@@ -11,7 +11,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "currency": "^4.1.0",
     "currency.js": "^1.1.0",
     "lodash": "^4.17.5",
