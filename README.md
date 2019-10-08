@@ -1,3 +1,3 @@
-# Quasar App
+# Dinehiro Contado
 
-> WIP
+> Desenvolvido com Quasar Framework
