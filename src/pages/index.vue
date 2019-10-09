@@ -112,7 +112,7 @@
           <br/>
           <q-input ref="altValor" type="number" :before="[{icon: 'attach money'}]" prefix="R$ " v-model="form.valor" float-label="Valor"/>
           <br/>
-          <q-btn type="submit" label="Lançar Item" color="indigo" icon="done" class="full-width" @click.prevent="alterarItem()"/>
+          <q-btn type="submit" label="Alterar Item" color="indigo" icon="done" class="full-width" @click.prevent="alterarItem()"/>
         </form>
       </div>
     </q-modal>
