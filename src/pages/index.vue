@@ -325,7 +325,6 @@ export default {
   .produto {
     font-size: 18px;
   }
-  .quantidade{}
   h2 {
     margin-top: 10px !important;
     margin-bottom: 10px !important;
